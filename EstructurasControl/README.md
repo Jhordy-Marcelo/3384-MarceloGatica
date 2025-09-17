@@ -19,3 +19,11 @@ Son instrucciones que permiten definir el flujo de ejecución de un programa. Gr
 -- Ejemplo: if, if-else, switch.
 
 . Uso: validar contraseñas, verificar opciones de un menú, decidir un camino en un algoritmo.
+
+## Repetitivas
+
+. Sirven para repetir un conjunto de instrucciones varias veces.
+
+-- Ejemplo: for, while, do-while.
+
+. Uso: recorrer listas, sumar elementos, repetir cálculos hasta alcanzar un resultado.
