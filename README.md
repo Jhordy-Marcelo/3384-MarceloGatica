@@ -23,4 +23,8 @@ Ejemplos de algoritmos practicados en clase usando c#, donde se adapta usando Py
 
 ## Arreglos
 
+.Arrays Unidimensionales (Vectores)
+
+.Arrays Bidimensionales (Matrices)
+
 Derechos Reservados ®
