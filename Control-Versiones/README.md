@@ -49,3 +49,13 @@
 ---git clone [URL] # Clonar repositorio existente---
 
 #### Comandos de Información
+
+---git diff # Ver cambios no confirmados---
+
+---git diff --staged # Ver cambios en staging---
+
+---git show # Ver último commit---
+
+---git branch # Ver ramas locales---
+
+---git branch -r # Ver ramas remotas---
