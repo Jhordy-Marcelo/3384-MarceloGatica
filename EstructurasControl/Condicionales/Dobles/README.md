@@ -13,7 +13,15 @@
 
 ### Ejercicio 1
 
+. Si el número ingresado es mayor o igual a 0, se imprime “El número es positivo”.
+
+. Si no cumple la condición, automáticamente se ejecuta el bloque else y se muestra “El número es negativo”.
+
 ### Ejercicio 2
+
+. Si la nota es mayor o igual a 11, se considera aprobado.
+
+. De lo contrario, se ejecuta el bloque else y se muestra que desaprobó.
 
 # Python
 
