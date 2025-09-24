@@ -36,4 +36,11 @@
 Agregando breve explicacion del ejercicio 1 de Repetivas While - Csharp
 ### Ejercicio 1
 
+. La variable i comienza en 1.
+
+. Mientras i <= 5, el bucle imprime el valor actual.
+
+. En cada vuelta, i se incrementa en 1.
+
+. El bucle termina cuando i supera 5.
 ### Ejercicio 2
