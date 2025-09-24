@@ -11,7 +11,11 @@
 # Csharp
 
 ### Ejercicio 1
+. Primero se verifica si el número es mayor o igual a 0.
 
+. Dentro de esa condición, se anida otra para diferenciar entre cero y positivo.
+
+. Si la primera condición no se cumple, se ejecuta el else que indica que es negativo.
 ### Ejercicio 2
 
 # Python
