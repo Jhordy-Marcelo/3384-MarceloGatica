@@ -29,7 +29,11 @@
 . Al final, se muestra el resultado total.
 
 # Python
-
+Agregando una breve explicacion del ejercicio 2 de Repetitivas For en Csharp
 ### Ejercicio 1
+
+. range(1, 11) genera los números del 1 al 10 (el 11 no se incluye).
+
+. En cada repetición, i toma un valor de esa secuencia y se imprime en pantalla.
 
 ### Ejercicio 2
