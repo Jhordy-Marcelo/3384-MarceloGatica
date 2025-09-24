@@ -18,6 +18,12 @@
 
 ### Ejercicio 1
 
+. La variable i comienza en 1.
+
+. Mientras i <= 5, el bucle se ejecuta mostrando el valor.
+
+. En cada repetición, i aumenta en 1 hasta que la condición deja de cumplirse.
+
 ### Ejercicio 2
 
 
