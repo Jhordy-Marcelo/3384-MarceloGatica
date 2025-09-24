@@ -41,7 +41,15 @@
 . Si no coincide con ninguno, se muestra el mensaje de "Opción inválida".
 
 # Python
-Agregando una breve explicacion del ejercicio 1 de Condicionales Multiples
+
 ### Ejercicio 1
+
+. Si la nota es 18 o más, muestra "Excelente".
+
+. Si no, pero es 14 o más, muestra "Bueno".
+
+.Si no, pero es 11 o más, muestra "Regular".
+
+. En cualquier otro caso, se ejecuta el else mostrando "Deficiente".
 
 ### Ejercicio 2
