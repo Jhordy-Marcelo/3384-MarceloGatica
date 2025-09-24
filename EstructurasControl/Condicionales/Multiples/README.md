@@ -16,6 +16,16 @@
 
 ### Ejercicio 1
 
+. El programa evalúa varias condiciones en orden:
+
+. Si la nota es 18 o más → imprime "Excelente".
+
+. Si no, pero es 14 o más → imprime "Bueno".
+
+. Si no, pero es 11 o más → imprime "Regular".
+
+. Si ninguna se cumple, ejecuta el else final mostrando "Deficiente".
+
 ### Ejercicio 2
 
 # Python
