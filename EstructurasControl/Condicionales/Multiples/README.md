@@ -9,3 +9,17 @@
 . En Python se representan con if – elif – else.
 
 . Condicionales múltiples permiten que el programa escoja entre varias opciones, pero solo se ejecuta uno de los bloques, el primero cuya condición sea verdadera.
+
+## Explicacion de los ejemplos
+
+# Csharp
+
+### Ejercicio 1
+
+### Ejercicio 2
+
+# Python
+
+### Ejercicio 1
+
+### Ejercicio 2
