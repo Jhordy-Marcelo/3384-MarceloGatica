@@ -28,8 +28,20 @@
 
 ### Ejercicio 2
 
-# Python
+. El programa compara el valor ingresado con varias opciones:
 
+. Si el usuario ingresa 1, se ejecuta el bloque de la suma.
+
+. Si ingresa 2, el de la resta.
+
+. Si ingresa 3, el de la multiplicación.
+
+. Si ingresa 4, el de la división.
+
+. Si no coincide con ninguno, se muestra el mensaje de "Opción inválida".
+
+# Python
+Agregando una breve explicacion del ejercicio 1 de Condicionales Multiples
 ### Ejercicio 1
 
 ### Ejercicio 2
