@@ -9,3 +9,17 @@
 . En do-while, primero se ejecuta el bloque y después se evalúa la condición.
 
 . En un do-while el bloque se ejecuta mínimo una vez, incluso si la condición es falsa desde el principio.
+
+## Explicacion de los ejemplos
+
+# Csharp
+
+### Ejercicio 1
+
+### Ejercicio 2
+
+# Python
+
+### Ejercicio 1
+
+### Ejercicio 2
