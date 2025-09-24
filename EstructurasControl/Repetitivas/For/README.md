@@ -7,3 +7,17 @@
 . En C#, el for usa un contador con valor inicial, condición de fin e incremento/decremento.
 
 . En Python, el for se utiliza principalmente para recorrer rangos de números o elementos de una secuencia (listas, cadenas, etc.).
+
+## Explicacion de los ejemplos
+
+# Csharp
+
+### Ejercicio 1
+
+### Ejercicio 2
+
+# Python
+
+### Ejercicio 1
+
+### Ejercicio 2
