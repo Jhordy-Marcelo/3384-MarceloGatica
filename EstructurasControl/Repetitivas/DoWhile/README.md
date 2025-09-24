@@ -16,6 +16,14 @@
 
 ### Ejercicio 1
 
+. Se inicializa i en 1.
+
+. El bloque dentro del do se ejecuta al menos una vez.
+
+. Después de mostrar el número, se incrementa i.
+
+. Mientras i <= 5, el ciclo se repite.
+
 ### Ejercicio 2
 
 # Python
