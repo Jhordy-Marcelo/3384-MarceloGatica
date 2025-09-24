@@ -26,8 +26,14 @@
 
 ### Ejercicio 2
 
-# Python
+. El menú se muestra al menos una vez gracias al do-while.
 
+. Si el usuario elige 1 o 2, se ejecuta una acción.
+
+. El ciclo solo termina cuando el usuario elige la opción 3.
+
+# Python
+Agregando breve explicacion de ejercicio 1 Csharp en Repetitivas - DoWhile
 ### Ejercicio 1
 
 ### Ejercicio 2
