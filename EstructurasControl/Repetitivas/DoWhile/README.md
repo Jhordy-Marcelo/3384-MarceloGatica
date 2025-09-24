@@ -36,4 +36,9 @@
 Agregando breve explicacion de ejercicio 1 Csharp en Repetitivas - DoWhile
 ### Ejercicio 1
 
+. Se usa while True para garantizar que el bloque se ejecute al menos una vez.
+
+. En cada iteración se muestra el número y se incrementa i.
+
+. Cuando i supera 5, se usa break para salir del bucle.
 ### Ejercicio 2
