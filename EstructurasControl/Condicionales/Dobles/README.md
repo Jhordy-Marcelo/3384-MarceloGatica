@@ -27,4 +27,12 @@
 
 ### Ejercicio 1
 
+. Si el residuo de dividir el número entre 2 es 0, el programa muestra que es par.
+
+. Si no se cumple la condición, se ejecuta el else y se indica que es impar.
+
 ### Ejercicio 2
+
+. Si la edad ingresada es mayor o igual a 18, se ejecuta el bloque del if.
+
+. En caso contrario, se ejecuta el bloque del else.
