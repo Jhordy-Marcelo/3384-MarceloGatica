@@ -30,4 +30,9 @@
 
 ### Ejercicio 1
 
+. Primero se revisa si el número es mayor o igual a 0.
+
+. Dentro de esa condición, se anida otra para diferenciar entre cero y positivo.
+
+. Si no cumple la primera condición, se ejecuta el else que indica que es negativo.
 ### Ejercicio 2
