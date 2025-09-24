@@ -5,13 +5,22 @@ Si la condición no se cumple, simplemente se salta ese bloque de código.
 En la mayoría de lenguajes se representan con la palabra clave if
 
 ## Explicacion de los ejemplos
+
 # Csharp
+
 ### Ejercicio 1
-el programa solo muestra el mensaje si la condición numero % 2 == 0 es verdadera (es decir, si el número es divisible entre 2).
+
+.el programa solo muestra el mensaje si la condición numero % 2 == 0 es verdadera (es decir, si el número es divisible entre 2).
 
 ### Ejercicio 2
-el programa solo muestra el mensaje si la nota es mayor o igual a 11. Si es menor, no ejecuta nada.
+
+.el programa solo muestra el mensaje si la nota es mayor o igual a 11. Si es menor, no ejecuta nada.
 
 # Python
+
 ### Ejercicio 1
+
+.El programa solo muestra el mensaje si el número ingresado es mayor que 100. Si no lo es, simplemente no ejecuta nada más.
+
 ### Ejercicio 2
+.El programa únicamente imprime el mensaje si la edad ingresada es 18 o más. Si la condición no se cumple, no ocurre ninguna acción.
