@@ -33,7 +33,7 @@
 . El ciclo solo termina cuando el usuario elige la opción 3.
 
 # Python
-Agregando breve explicacion de ejercicio 1 Csharp en Repetitivas - DoWhile
+
 ### Ejercicio 1
 
 . Se usa while True para garantizar que el bloque se ejecute al menos una vez.
@@ -41,4 +41,11 @@ Agregando breve explicacion de ejercicio 1 Csharp en Repetitivas - DoWhile
 . En cada iteración se muestra el número y se incrementa i.
 
 . Cuando i supera 5, se usa break para salir del bucle.
+
 ### Ejercicio 2
+
+. El menú siempre aparece al menos una vez.
+
+. El ciclo sigue ejecutándose mientras el usuario no elija 3.
+
+. Se usa break para salir cuando se cumple la condición de salida.
