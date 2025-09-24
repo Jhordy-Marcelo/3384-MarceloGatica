@@ -26,9 +26,14 @@
 
 ### Ejercicio 2
 
+. El programa pide un número al usuario.
+
+. Mientras el número no sea 0, se sigue sumando.
+
+. Cuando el usuario ingresa 0, la condición numero != 0 deja de cumplirse y el bucle termina.
 
 # Python
-
+Agregando breve explicacion del ejercicio 1 de Repetivas While - Csharp
 ### Ejercicio 1
 
 ### Ejercicio 2
