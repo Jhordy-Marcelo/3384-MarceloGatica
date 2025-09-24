@@ -6,4 +6,17 @@
 
 . Si la condición no se cumple (falso), se ejecuta un segundo bloque de instrucciones alternativo.
 
-. condicional doble garantiza que siempre se ejecute uno de los dos bloques, lo que permite que el programa tome decisiones de manera automática.
+. Condicional doble garantiza que siempre se ejecute uno de los dos bloques, lo que permite que el programa tome decisiones de manera automática.
+## Explicacion de los ejemplos
+
+# Csharp
+
+### Ejercicio 1
+
+### Ejercicio 2
+
+# Python
+
+### Ejercicio 1
+
+### Ejercicio 2
