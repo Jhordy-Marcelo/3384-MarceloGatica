@@ -22,6 +22,12 @@
 
 ### Ejercicio 2
 
+. El contador i va del 1 al 5.
+
+. En cada repetición, se acumula el valor de i en la variable suma.
+
+. Al final, se muestra el resultado total.
+
 # Python
 
 ### Ejercicio 1
