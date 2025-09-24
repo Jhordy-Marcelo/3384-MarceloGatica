@@ -5,3 +5,17 @@
 . Esto permite que el programa evalúe varias condiciones de manera jerárquica, es decir, que primero se verifique una condición principal y, dependiendo de su resultado, se evalúen nuevas condiciones dentro de ella.
 
 . Condicionales anidadas permiten tomar decisiones dentro de otras decisiones, aumentando el nivel de detalle en la lógica del programa.
+
+## Explicacion de los ejemplos
+
+# Csharp
+
+### Ejercicio 1
+
+### Ejercicio 2
+
+# Python
+
+### Ejercicio 1
+
+### Ejercicio 2
