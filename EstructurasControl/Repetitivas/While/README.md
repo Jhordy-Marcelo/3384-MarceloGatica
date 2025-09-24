@@ -11,3 +11,18 @@
 . Si la condición nunca se cumple, el bucle no se ejecuta.
 
 . El bucle while repite instrucciones hasta que la condición deje de cumplirse.
+
+## Explicacion de los ejemplos
+
+# Csharp
+
+### Ejercicio 1
+
+### Ejercicio 2
+
+
+# Python
+
+### Ejercicio 1
+
+### Ejercicio 2
