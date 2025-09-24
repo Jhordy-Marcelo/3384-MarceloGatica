@@ -11,12 +11,20 @@
 # Csharp
 
 ### Ejercicio 1
+
 . Primero se verifica si el número es mayor o igual a 0.
 
 . Dentro de esa condición, se anida otra para diferenciar entre cero y positivo.
 
 . Si la primera condición no se cumple, se ejecuta el else que indica que es negativo.
+
 ### Ejercicio 2
+
+. Primero se verifica si la nota está dentro del rango válido (0 a 20).
+
+. Dentro de esa condición, se evalúa otra para determinar si la nota es aprobatoria (≥ 11) o desaprobatoria (< 11).
+
+. Si no está en el rango, se ejecuta el último else indicando que no es válida.
 
 # Python
 
