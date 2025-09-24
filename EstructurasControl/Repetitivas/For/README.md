@@ -14,6 +14,12 @@
 
 ### Ejercicio 1
 
+. El contador i empieza en 1.
+
+. El bucle se repite mientras i <= 10.
+
+. En cada vuelta, se muestra el valor de i y luego se incrementa en 1.
+
 ### Ejercicio 2
 
 # Python
