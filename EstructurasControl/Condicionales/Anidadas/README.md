@@ -35,4 +35,11 @@
 . Dentro de esa condición, se anida otra para diferenciar entre cero y positivo.
 
 . Si no cumple la primera condición, se ejecuta el else que indica que es negativo.
+
 ### Ejercicio 2
+
+. Primero se comprueba que la edad sea un número válido (mayor o igual a 0).
+
+. Dentro de esa condición, se anida otra para decidir si la persona es mayor o menor de edad.
+
+. Si la primera condición no se cumple, se muestra un mensaje de error.
