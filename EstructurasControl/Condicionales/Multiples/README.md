@@ -53,3 +53,9 @@
 . En cualquier otro caso, se ejecuta el else mostrando "Deficiente".
 
 ### Ejercicio 2
+
+. El programa compara el valor ingresado con varias condiciones (if y elif).
+
+. Dependiendo de la opción (1 a 4), imprime el nombre de la operación.
+
+. Si no coincide con ninguna, ejecuta el else mostrando "Opción inválida".
